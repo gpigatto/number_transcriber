@@ -1,7 +1,7 @@
 name: number_transcriber
 description: A Flutter package to transform text in number.
 version: 0.0.1
-homepage:
+homepage: https://github.com/gpigatto/number_transcriber.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
